@@ -1,1 +1,4 @@
-echo This is srinivas
+@echo off
+title This is your first batch
+echo Wlcome
+pause
